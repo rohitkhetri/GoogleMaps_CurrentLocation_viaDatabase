@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285385776200",
+    "project_id": "simpledemo-f2b06",
+    "storage_bucket": "simpledemo-f2b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285385776200:android:d1165a6412a1b6e74b0c7d",
+        "android_client_info": {
+          "package_name": "com.example.simpledemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUPqCvFZkEPMbw8z9kYOjWPyFI4vhdFY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
